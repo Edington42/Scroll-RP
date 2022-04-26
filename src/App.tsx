@@ -20,7 +20,7 @@ export default function App() {
             sx={{ mr: 2 }}
           ></IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            This is A Game
+            This is A Game Test
           </Typography>
           <Button color="inherit">Start</Button>
         </Toolbar>
